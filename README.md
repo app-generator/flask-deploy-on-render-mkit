@@ -9,7 +9,7 @@
 
 ---
 
-> [Generate Flask APP and Go LIVE ..fast](https://youtu.be/E0-8PEGJcPc) - `video presentation` 
+> 👉 [Generate Flask APP and Go LIVE ..fast](https://youtu.be/E0-8PEGJcPc) - `video presentation` 
 
 ---
 
@@ -17,10 +17,10 @@
 
 ### Built with [App Generator](https://appseed.us/generator/)
 
-- `Up-to-date dependencies`
-- Database: `sqlite`
-- `DB Tools`: SQLAlchemy ORM, Flask-Migrate (schema migrations)
-- Session-Based authentication (via **flask_login**), Forms validation
+- ✅ `Up-to-date dependencies`
+- ✅ Database: `sqlite`
+- ✅ `DB Tools`: SQLAlchemy ORM, Flask-Migrate (schema migrations)
+- ✅ Session-Based authentication (via **flask_login**), Forms validation
 
 <br />
 
