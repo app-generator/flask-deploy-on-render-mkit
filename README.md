@@ -9,7 +9,7 @@
 
 ---
 
-> 👉 [Generate Flask APP and Go LIVE ..fast](https://youtu.be/E0-8PEGJcPc) - `video presentation` 
+🚀 [Generate Flask APP and Go LIVE ..fast](https://youtu.be/E0-8PEGJcPc) - `video presentation` 
 
 ---
 
