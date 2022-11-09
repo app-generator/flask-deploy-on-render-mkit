@@ -4,11 +4,14 @@
  
 - 👉 [Flask Material Kit](https://appseed.us/product/material-kit/flask/) - product page
 - 👉 [Complete documentation](https://docs.appseed.us/products/flask-apps/material-kit) - `Learn how to use and update the product`
-- 🚀 Free [support](https://appseed.us/support/) for **registered users** (Email & `Discord`)   
 
 <br />
 
-> Built with [App Generator](https://appseed.us/generator/), timestamp `2022-11-09 16:18`
+> [Generate Flask APP and Go LIVE ..fast](https://youtu.be/E0-8PEGJcPc) - `video presentation` 
+
+<br />
+
+> 🚀 Built with [App Generator](https://appseed.us/generator/), timestamp `2022-11-09 16:18`
 
 - `Up-to-date dependencies`
 - Database: `sqlite`
