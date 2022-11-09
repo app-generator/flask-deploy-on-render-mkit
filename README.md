@@ -7,11 +7,15 @@
 
 <br />
 
+---
+
 > [Generate Flask APP and Go LIVE ..fast](https://youtu.be/E0-8PEGJcPc) - `video presentation` 
+
+---
 
 <br />
 
-> 🚀 Built with [App Generator](https://appseed.us/generator/), timestamp `2022-11-09 16:18`
+### Built with [App Generator](https://appseed.us/generator/)
 
 - `Up-to-date dependencies`
 - Database: `sqlite`
